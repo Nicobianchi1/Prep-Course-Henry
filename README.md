@@ -1,2 +1,1 @@
-# Prep-Course-Henry
-Este es un repositorio del modulo 2 del prepcourse de Henry
+Esta es una prueba de como modificar un repositorio de github y como clonarlo desde mi pc local
